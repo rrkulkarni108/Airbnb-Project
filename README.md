@@ -15,3 +15,4 @@ were significantly different from before to after the pandemic. These findings a
 investigation into the continuation of the current pandemic in the near future and can aid Airbnb in 
 extrapolating this relatively small-scale study to larger locales.
 
+NOTE: listings.csv is too large of a file to be uploaded to Github. Contact rrkulkarni@tamu.edu to request the dataset.
